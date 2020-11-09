@@ -1,0 +1,215 @@
+,CountryName,CountryCode,IndicatorName,IndicatorCode,Year,Value,IncomeGroup
+0,Afghanistan,AFG,Population growth (annual %),SP.POP.GROW,2014.0,3.033472553,Low income
+1,Albania,ALB,Population growth (annual %),SP.POP.GROW,2014.0,-0.09983009699999999,Upper middle income
+2,Algeria,DZA,Population growth (annual %),SP.POP.GROW,2014.0,1.940399184,Upper middle income
+3,American Samoa,ASM,Population growth (annual %),SP.POP.GROW,2014.0,0.238404968,Upper middle income
+4,Andorra,ADO,Population growth (annual %),SP.POP.GROW,2014.0,-4.19194055,High income: nonOECD
+5,Angola,AGO,Population growth (annual %),SP.POP.GROW,2014.0,3.2695524060000003,Upper middle income
+6,Antigua and Barbuda,ATG,Population growth (annual %),SP.POP.GROW,2014.0,1.0117011409999999,High income: nonOECD
+7,Argentina,ARG,Population growth (annual %),SP.POP.GROW,2014.0,1.033055553,High income: nonOECD
+8,Armenia,ARM,Population growth (annual %),SP.POP.GROW,2014.0,0.465529171,Lower middle income
+9,Aruba,ABW,Population growth (annual %),SP.POP.GROW,2014.0,0.503969821,High income: nonOECD
+10,Australia,AUS,Population growth (annual %),SP.POP.GROW,2014.0,1.5654312830000001,High income: OECD
+11,Austria,AUT,Population growth (annual %),SP.POP.GROW,2014.0,0.647909059,High income: OECD
+12,Azerbaijan,AZE,Population growth (annual %),SP.POP.GROW,2014.0,1.276982804,Upper middle income
+13,"Bahamas, The",BHS,Population growth (annual %),SP.POP.GROW,2014.0,1.37024992,High income: nonOECD
+14,Bahrain,BHR,Population growth (annual %),SP.POP.GROW,2014.0,0.92227535,High income: nonOECD
+15,Bangladesh,BGD,Population growth (annual %),SP.POP.GROW,2014.0,1.214377385,Lower middle income
+16,Barbados,BRB,Population growth (annual %),SP.POP.GROW,2014.0,0.309958314,High income: nonOECD
+17,Belarus,BLR,Population growth (annual %),SP.POP.GROW,2014.0,0.042247571,Upper middle income
+18,Belgium,BEL,Population growth (annual %),SP.POP.GROW,2014.0,0.378347065,High income: OECD
+19,Belize,BLZ,Population growth (annual %),SP.POP.GROW,2014.0,2.159305277,Upper middle income
+20,Benin,BEN,Population growth (annual %),SP.POP.GROW,2014.0,2.641076758,Low income
+21,Bermuda,BMU,Population growth (annual %),SP.POP.GROW,2014.0,0.276918817,High income: nonOECD
+22,Bhutan,BTN,Population growth (annual %),SP.POP.GROW,2014.0,1.3649452359999998,Lower middle income
+23,Bolivia,BOL,Population growth (annual %),SP.POP.GROW,2014.0,1.545278399,Lower middle income
+24,Bosnia and Herzegovina,BIH,Population growth (annual %),SP.POP.GROW,2014.0,-0.156496091,Upper middle income
+25,Botswana,BWA,Population growth (annual %),SP.POP.GROW,2014.0,1.9756140569999998,Upper middle income
+26,Brazil,BRA,Population growth (annual %),SP.POP.GROW,2014.0,0.886360083,Upper middle income
+27,Brunei Darussalam,BRN,Population growth (annual %),SP.POP.GROW,2014.0,1.422402986,High income: nonOECD
+28,Bulgaria,BGR,Population growth (annual %),SP.POP.GROW,2014.0,-0.568389264,Upper middle income
+29,Burkina Faso,BFA,Population growth (annual %),SP.POP.GROW,2014.0,2.911018317,Low income
+30,Burundi,BDI,Population growth (annual %),SP.POP.GROW,2014.0,3.297803748,Low income
+31,Cabo Verde,CPV,Population growth (annual %),SP.POP.GROW,2014.0,1.302061946,Lower middle income
+32,Cambodia,KHM,Population growth (annual %),SP.POP.GROW,2014.0,1.641596126,Low income
+33,Cameroon,CMR,Population growth (annual %),SP.POP.GROW,2014.0,2.498110306,Lower middle income
+34,Canada,CAN,Population growth (annual %),SP.POP.GROW,2014.0,1.0809777170000001,High income: OECD
+35,Cayman Islands,CYM,Population growth (annual %),SP.POP.GROW,2014.0,1.366353005,High income: nonOECD
+36,Central African Republic,CAF,Population growth (annual %),SP.POP.GROW,2014.0,1.968283386,Low income
+37,Chad,TCD,Population growth (annual %),SP.POP.GROW,2014.0,3.3015950889999996,Low income
+38,Channel Islands,CHI,Population growth (annual %),SP.POP.GROW,2014.0,0.47930442,High income: nonOECD
+39,Chile,CHL,Population growth (annual %),SP.POP.GROW,2014.0,1.057293581,High income: OECD
+40,China,CHN,Population growth (annual %),SP.POP.GROW,2014.0,0.506311592,Upper middle income
+41,Colombia,COL,Population growth (annual %),SP.POP.GROW,2014.0,0.944004218,Upper middle income
+42,Comoros,COM,Population growth (annual %),SP.POP.GROW,2014.0,2.404550925,Low income
+43,"Congo, Dem. Rep.",ZAR,Population growth (annual %),SP.POP.GROW,2014.0,3.15317545,Low income
+44,"Congo, Rep.",COG,Population growth (annual %),SP.POP.GROW,2014.0,2.486347213,Lower middle income
+45,Costa Rica,CRI,Population growth (annual %),SP.POP.GROW,2014.0,1.081430428,Upper middle income
+46,Cote d'Ivoire,CIV,Population growth (annual %),SP.POP.GROW,2014.0,2.44243261,Lower middle income
+47,Croatia,HRV,Population growth (annual %),SP.POP.GROW,2014.0,-0.407343185,High income: nonOECD
+48,Cuba,CUB,Population growth (annual %),SP.POP.GROW,2014.0,0.14604065900000002,Upper middle income
+49,Curacao,CUW,Population growth (annual %),SP.POP.GROW,2014.0,1.3245568909999998,High income: nonOECD
+50,Cyprus,CYP,Population growth (annual %),SP.POP.GROW,2014.0,1.0461427429999999,High income: nonOECD
+51,Czech Republic,CZE,Population growth (annual %),SP.POP.GROW,2014.0,-0.035253542,High income: OECD
+52,Denmark,DNK,Population growth (annual %),SP.POP.GROW,2014.0,0.43774571799999995,High income: OECD
+53,Djibouti,DJI,Population growth (annual %),SP.POP.GROW,2014.0,1.335093432,Lower middle income
+54,Dominica,DMA,Population growth (annual %),SP.POP.GROW,2014.0,0.46554889899999996,Upper middle income
+55,Dominican Republic,DOM,Population growth (annual %),SP.POP.GROW,2014.0,1.203986962,Upper middle income
+56,Ecuador,ECU,Population growth (annual %),SP.POP.GROW,2014.0,1.530902125,Upper middle income
+57,"Egypt, Arab Rep.",EGY,Population growth (annual %),SP.POP.GROW,2014.0,2.218863304,Lower middle income
+58,El Salvador,SLV,Population growth (annual %),SP.POP.GROW,2014.0,0.296162908,Lower middle income
+59,Equatorial Guinea,GNQ,Population growth (annual %),SP.POP.GROW,2014.0,2.9425467239999996,High income: nonOECD
+60,Eritrea,ERI,Population growth (annual %),SP.POP.GROW,2014.0,2.2083604119999998,Low income
+61,Estonia,EST,Population growth (annual %),SP.POP.GROW,2014.0,-0.330744377,High income: OECD
+62,Ethiopia,ETH,Population growth (annual %),SP.POP.GROW,2014.0,2.50680866,Low income
+63,Faeroe Islands,FRO,Population growth (annual %),SP.POP.GROW,2014.0,-0.147130465,High income: nonOECD
+64,Fiji,FJI,Population growth (annual %),SP.POP.GROW,2014.0,0.6749558859999999,Upper middle income
+65,Finland,FIN,Population growth (annual %),SP.POP.GROW,2014.0,0.451710861,High income: OECD
+66,France,FRA,Population growth (annual %),SP.POP.GROW,2014.0,0.425985399,High income: OECD
+67,French Polynesia,PYF,Population growth (annual %),SP.POP.GROW,2014.0,1.083477045,High income: nonOECD
+68,Gabon,GAB,Population growth (annual %),SP.POP.GROW,2014.0,2.2362664469999998,Upper middle income
+69,"Gambia, The",GMB,Population growth (annual %),SP.POP.GROW,2014.0,3.231992692,Low income
+70,Georgia,GEO,Population growth (annual %),SP.POP.GROW,2014.0,0.37591938700000005,Lower middle income
+71,Germany,DEU,Population growth (annual %),SP.POP.GROW,2014.0,0.301977923,High income: OECD
+72,Ghana,GHA,Population growth (annual %),SP.POP.GROW,2014.0,2.350075661,Lower middle income
+73,Greece,GRC,Population growth (annual %),SP.POP.GROW,2014.0,-0.635054055,High income: OECD
+74,Greenland,GRL,Population growth (annual %),SP.POP.GROW,2014.0,-0.333398667,High income: nonOECD
+75,Grenada,GRD,Population growth (annual %),SP.POP.GROW,2014.0,0.42120005200000005,Upper middle income
+76,Guam,GUM,Population growth (annual %),SP.POP.GROW,2014.0,1.456149626,High income: nonOECD
+77,Guatemala,GTM,Population growth (annual %),SP.POP.GROW,2014.0,2.048252145,Lower middle income
+78,Guinea,GIN,Population growth (annual %),SP.POP.GROW,2014.0,2.698294373,Low income
+79,Guinea-Bissau,GNB,Population growth (annual %),SP.POP.GROW,2014.0,2.438527521,Low income
+80,Guyana,GUY,Population growth (annual %),SP.POP.GROW,2014.0,0.375100609,Lower middle income
+81,Haiti,HTI,Population growth (annual %),SP.POP.GROW,2014.0,1.340572727,Low income
+82,Honduras,HND,Population growth (annual %),SP.POP.GROW,2014.0,1.424638087,Lower middle income
+83,"Hong Kong SAR, China",HKG,Population growth (annual %),SP.POP.GROW,2014.0,0.7512579340000001,High income: nonOECD
+84,Hungary,HUN,Population growth (annual %),SP.POP.GROW,2014.0,-0.317989532,High income: OECD
+85,Iceland,ISL,Population growth (annual %),SP.POP.GROW,2014.0,1.174491856,High income: OECD
+86,India,IND,Population growth (annual %),SP.POP.GROW,2014.0,1.226730296,Lower middle income
+87,Indonesia,IDN,Population growth (annual %),SP.POP.GROW,2014.0,1.260193359,Lower middle income
+88,"Iran, Islamic Rep.",IRN,Population growth (annual %),SP.POP.GROW,2014.0,1.276545297,Upper middle income
+89,Iraq,IRQ,Population growth (annual %),SP.POP.GROW,2014.0,3.0061608339999997,Upper middle income
+90,Ireland,IRL,Population growth (annual %),SP.POP.GROW,2014.0,0.313212277,High income: OECD
+91,Isle of Man,IMY,Population growth (annual %),SP.POP.GROW,2014.0,0.7661813279999999,High income: nonOECD
+92,Israel,ISR,Population growth (annual %),SP.POP.GROW,2014.0,1.914674953,High income: OECD
+93,Italy,ITA,Population growth (annual %),SP.POP.GROW,2014.0,1.813714211,High income: OECD
+94,Jamaica,JAM,Population growth (annual %),SP.POP.GROW,2014.0,0.239809415,Upper middle income
+95,Japan,JPN,Population growth (annual %),SP.POP.GROW,2014.0,-0.162550166,High income: OECD
+96,Jordan,JOR,Population growth (annual %),SP.POP.GROW,2014.0,2.250037525,Upper middle income
+97,Kazakhstan,KAZ,Population growth (annual %),SP.POP.GROW,2014.0,1.479068715,Upper middle income
+98,Kenya,KEN,Population growth (annual %),SP.POP.GROW,2014.0,2.644121396,Lower middle income
+99,Kiribati,KIR,Population growth (annual %),SP.POP.GROW,2014.0,1.758837015,Lower middle income
+100,"Korea, Dem. Rep.",PRK,Population growth (annual %),SP.POP.GROW,2014.0,0.525083325,Low income
+101,"Korea, Rep.",KOR,Population growth (annual %),SP.POP.GROW,2014.0,0.405959707,High income: OECD
+102,Kosovo,KSV,Population growth (annual %),SP.POP.GROW,2014.0,0.276387564,Lower middle income
+103,Kuwait,KWT,Population growth (annual %),SP.POP.GROW,2014.0,4.3408509,High income: nonOECD
+104,Kyrgyz Republic,KGZ,Population growth (annual %),SP.POP.GROW,2014.0,1.983827978,Lower middle income
+105,Lao PDR,LAO,Population growth (annual %),SP.POP.GROW,2014.0,1.6476769180000002,Lower middle income
+106,Latvia,LVA,Population growth (annual %),SP.POP.GROW,2014.0,-1.113976603,High income: nonOECD
+107,Lebanon,LBN,Population growth (annual %),SP.POP.GROW,2014.0,1.179986019,Upper middle income
+108,Lesotho,LSO,Population growth (annual %),SP.POP.GROW,2014.0,1.24688598,Lower middle income
+109,Liberia,LBR,Population growth (annual %),SP.POP.GROW,2014.0,2.367408337,Low income
+110,Libya,LBY,Population growth (annual %),SP.POP.GROW,2014.0,-0.111824622,Upper middle income
+111,Liechtenstein,LIE,Population growth (annual %),SP.POP.GROW,2014.0,0.66195113,High income: nonOECD
+112,Lithuania,LTU,Population growth (annual %),SP.POP.GROW,2014.0,-0.9636881840000001,High income: nonOECD
+113,Luxembourg,LUX,Population growth (annual %),SP.POP.GROW,2014.0,2.312929524,High income: OECD
+114,"Macao SAR, China",MAC,Population growth (annual %),SP.POP.GROW,2014.0,1.720506326,High income: nonOECD
+115,"Macedonia, FYR",MKD,Population growth (annual %),SP.POP.GROW,2014.0,0.148595745,Upper middle income
+116,Madagascar,MDG,Population growth (annual %),SP.POP.GROW,2014.0,2.783869737,Low income
+117,Malawi,MWI,Population growth (annual %),SP.POP.GROW,2014.0,3.072287728,Low income
+118,Malaysia,MYS,Population growth (annual %),SP.POP.GROW,2014.0,1.4709524109999998,Upper middle income
+119,Maldives,MDV,Population growth (annual %),SP.POP.GROW,2014.0,2.0151815440000003,Upper middle income
+120,Mali,MLI,Population growth (annual %),SP.POP.GROW,2014.0,2.933420467,Low income
+121,Malta,MLT,Population growth (annual %),SP.POP.GROW,2014.0,0.9473752590000001,High income: nonOECD
+122,Marshall Islands,MHL,Population growth (annual %),SP.POP.GROW,2014.0,0.211952693,Upper middle income
+123,Mauritania,MRT,Population growth (annual %),SP.POP.GROW,2014.0,2.472382509,Lower middle income
+124,Mauritius,MUS,Population growth (annual %),SP.POP.GROW,2014.0,0.18106146899999997,Upper middle income
+125,Mexico,MEX,Population growth (annual %),SP.POP.GROW,2014.0,1.321217635,Upper middle income
+126,"Micronesia, Fed. Sts.",FSM,Population growth (annual %),SP.POP.GROW,2014.0,0.313820879,Lower middle income
+127,Moldova,MDA,Population growth (annual %),SP.POP.GROW,2014.0,-0.060885746,Lower middle income
+128,Monaco,MCO,Population growth (annual %),SP.POP.GROW,2014.0,0.25282444800000003,High income: nonOECD
+129,Mongolia,MNG,Population growth (annual %),SP.POP.GROW,2014.0,1.7575978369999998,Upper middle income
+130,Montenegro,MNE,Population growth (annual %),SP.POP.GROW,2014.0,0.09541379,Upper middle income
+131,Morocco,MAR,Population growth (annual %),SP.POP.GROW,2014.0,1.390819379,Lower middle income
+132,Mozambique,MOZ,Population growth (annual %),SP.POP.GROW,2014.0,2.790970183,Low income
+133,Myanmar,MMR,Population growth (annual %),SP.POP.GROW,2014.0,0.85196116,Lower middle income
+134,Namibia,NAM,Population growth (annual %),SP.POP.GROW,2014.0,2.369479939,Upper middle income
+135,Nepal,NPL,Population growth (annual %),SP.POP.GROW,2014.0,1.213172492,Low income
+136,Netherlands,NLD,Population growth (annual %),SP.POP.GROW,2014.0,0.295621411,High income: OECD
+137,New Caledonia,NCL,Population growth (annual %),SP.POP.GROW,2014.0,1.515180502,High income: nonOECD
+138,New Zealand,NZL,Population growth (annual %),SP.POP.GROW,2014.0,1.510339485,High income: OECD
+139,Nicaragua,NIC,Population growth (annual %),SP.POP.GROW,2014.0,1.141643124,Lower middle income
+140,Niger,NER,Population growth (annual %),SP.POP.GROW,2014.0,4.029436517,Low income
+141,Nigeria,NGA,Population growth (annual %),SP.POP.GROW,2014.0,2.6604873330000003,Lower middle income
+142,Northern Mariana Islands,MNP,Population growth (annual %),SP.POP.GROW,2014.0,1.23975391,High income: nonOECD
+143,Norway,NOR,Population growth (annual %),SP.POP.GROW,2014.0,1.11300003,High income: OECD
+144,Oman,OMN,Population growth (annual %),SP.POP.GROW,2014.0,8.08855916,High income: nonOECD
+145,Pakistan,PAK,Population growth (annual %),SP.POP.GROW,2014.0,2.103437242,Lower middle income
+146,Palau,PLW,Population growth (annual %),SP.POP.GROW,2014.0,0.847301337,Upper middle income
+147,Panama,PAN,Population growth (annual %),SP.POP.GROW,2014.0,1.6121877340000001,Upper middle income
+148,Papua New Guinea,PNG,Population growth (annual %),SP.POP.GROW,2014.0,2.094693178,Lower middle income
+149,Paraguay,PRY,Population growth (annual %),SP.POP.GROW,2014.0,1.334291611,Upper middle income
+150,Peru,PER,Population growth (annual %),SP.POP.GROW,2014.0,1.32499896,Upper middle income
+151,Philippines,PHL,Population growth (annual %),SP.POP.GROW,2014.0,1.5932532480000001,Lower middle income
+152,Poland,POL,Population growth (annual %),SP.POP.GROW,2014.0,-0.11748952300000001,High income: OECD
+153,Portugal,PRT,Population growth (annual %),SP.POP.GROW,2014.0,-0.574471934,High income: OECD
+154,Puerto Rico,PRI,Population growth (annual %),SP.POP.GROW,2014.0,-1.328139143,High income: nonOECD
+155,Qatar,QAT,Population growth (annual %),SP.POP.GROW,2014.0,3.312783791,High income: nonOECD
+156,Romania,ROM,Population growth (annual %),SP.POP.GROW,2014.0,-0.36444992600000004,Upper middle income
+157,Russian Federation,RUS,Population growth (annual %),SP.POP.GROW,2014.0,0.217632655,High income: nonOECD
+158,Rwanda,RWA,Population growth (annual %),SP.POP.GROW,2014.0,2.35027091,Low income
+159,Samoa,WSM,Population growth (annual %),SP.POP.GROW,2014.0,0.761315436,Lower middle income
+160,San Marino,SMR,Population growth (annual %),SP.POP.GROW,2014.0,0.64776526,High income: nonOECD
+161,Sao Tome and Principe,STP,Population growth (annual %),SP.POP.GROW,2014.0,2.1458374719999997,Lower middle income
+162,Saudi Arabia,SAU,Population growth (annual %),SP.POP.GROW,2014.0,2.244392708,High income: nonOECD
+163,Senegal,SEN,Population growth (annual %),SP.POP.GROW,2014.0,3.125624981,Lower middle income
+164,Serbia,SRB,Population growth (annual %),SP.POP.GROW,2014.0,-0.48559026899999996,Upper middle income
+165,Seychelles,SYC,Population growth (annual %),SP.POP.GROW,2014.0,1.792514345,High income: nonOECD
+166,Sierra Leone,SLE,Population growth (annual %),SP.POP.GROW,2014.0,2.189341169,Low income
+167,Singapore,SGP,Population growth (annual %),SP.POP.GROW,2014.0,1.297297588,High income: nonOECD
+168,Sint Maarten (Dutch part),SXM,Population growth (annual %),SP.POP.GROW,2014.0,2.846525213,High income: nonOECD
+169,Slovak Republic,SVK,Population growth (annual %),SP.POP.GROW,2014.0,0.09440635300000001,High income: OECD
+170,Slovenia,SVN,Population growth (annual %),SP.POP.GROW,2014.0,0.10989356,High income: OECD
+171,Solomon Islands,SLB,Population growth (annual %),SP.POP.GROW,2014.0,2.027864725,Lower middle income
+172,Somalia,SOM,Population growth (annual %),SP.POP.GROW,2014.0,2.399954384,Low income
+173,South Africa,ZAF,Population growth (annual %),SP.POP.GROW,2014.0,1.57611958,Upper middle income
+174,South Sudan,SSD,Population growth (annual %),SP.POP.GROW,2014.0,3.915536494,Low income
+175,Spain,ESP,Population growth (annual %),SP.POP.GROW,2014.0,-0.463196351,High income: OECD
+176,Sri Lanka,LKA,Population growth (annual %),SP.POP.GROW,2014.0,0.758721601,Lower middle income
+177,St. Kitts and Nevis,KNA,Population growth (annual %),SP.POP.GROW,2014.0,1.177184174,High income: nonOECD
+178,St. Lucia,LCA,Population growth (annual %),SP.POP.GROW,2014.0,0.732343757,Upper middle income
+179,St. Martin (French part),MAF,Population growth (annual %),SP.POP.GROW,2014.0,0.84721977,High income: nonOECD
+180,St. Vincent and the Grenadines,VCT,Population growth (annual %),SP.POP.GROW,2014.0,0.030180121,Upper middle income
+181,Sudan,SDN,Population growth (annual %),SP.POP.GROW,2014.0,2.1452695619999997,Lower middle income
+182,Suriname,SUR,Population growth (annual %),SP.POP.GROW,2014.0,0.895407485,Upper middle income
+183,Swaziland,SWZ,Population growth (annual %),SP.POP.GROW,2014.0,1.466122343,Lower middle income
+184,Sweden,SWE,Population growth (annual %),SP.POP.GROW,2014.0,0.924592435,High income: OECD
+185,Switzerland,CHE,Population growth (annual %),SP.POP.GROW,2014.0,1.239397114,High income: OECD
+186,Syrian Arab Republic,SYR,Population growth (annual %),SP.POP.GROW,2014.0,1.676527755,Lower middle income
+187,Tajikistan,TJK,Population growth (annual %),SP.POP.GROW,2014.0,2.2422804640000003,Lower middle income
+188,Tanzania,TZA,Population growth (annual %),SP.POP.GROW,2014.0,3.1543694280000003,Low income
+189,Thailand,THA,Population growth (annual %),SP.POP.GROW,2014.0,0.406217867,Upper middle income
+190,Timor-Leste,TMP,Population growth (annual %),SP.POP.GROW,2014.0,2.678725623,Lower middle income
+191,Togo,TGO,Population growth (annual %),SP.POP.GROW,2014.0,2.6553193,Low income
+192,Tonga,TON,Population growth (annual %),SP.POP.GROW,2014.0,0.424250251,Upper middle income
+193,Trinidad and Tobago,TTO,Population growth (annual %),SP.POP.GROW,2014.0,0.461979352,High income: nonOECD
+194,Tunisia,TUN,Population growth (annual %),SP.POP.GROW,2014.0,1.00626446,Upper middle income
+195,Turkey,TUR,Population growth (annual %),SP.POP.GROW,2014.0,1.221865501,Upper middle income
+196,Turkmenistan,TKM,Population growth (annual %),SP.POP.GROW,2014.0,1.272383604,Upper middle income
+197,Turks and Caicos Islands,TCA,Population growth (annual %),SP.POP.GROW,2014.0,1.90601644,High income: nonOECD
+198,Tuvalu,TUV,Population growth (annual %),SP.POP.GROW,2014.0,0.17198648600000002,Upper middle income
+199,Uganda,UGA,Population growth (annual %),SP.POP.GROW,2014.0,3.25376537,Low income
+200,Ukraine,UKR,Population growth (annual %),SP.POP.GROW,2014.0,-0.278913805,Lower middle income
+201,United Arab Emirates,ARE,Population growth (annual %),SP.POP.GROW,2014.0,0.509332471,High income: nonOECD
+202,United Kingdom,GBR,Population growth (annual %),SP.POP.GROW,2014.0,0.627596412,High income: OECD
+203,United States,USA,Population growth (annual %),SP.POP.GROW,2014.0,0.742746144,High income: OECD
+204,Uruguay,URY,Population growth (annual %),SP.POP.GROW,2014.0,0.338250791,High income: nonOECD
+205,Uzbekistan,UZB,Population growth (annual %),SP.POP.GROW,2014.0,1.686900359,Lower middle income
+206,Vanuatu,VUT,Population growth (annual %),SP.POP.GROW,2014.0,2.233477212,Lower middle income
+207,"Venezuela, RB",VEN,Population growth (annual %),SP.POP.GROW,2014.0,1.3704753680000001,High income: nonOECD
+208,Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2014.0,1.131807942,Lower middle income
+209,Virgin Islands (U.S.),VIR,Population growth (annual %),SP.POP.GROW,2014.0,-0.542826609,High income: nonOECD
+210,West Bank and Gaza,WBG,Population growth (annual %),SP.POP.GROW,2014.0,2.957994955,Lower middle income
+211,"Yemen, Rep.",YEM,Population growth (annual %),SP.POP.GROW,2014.0,2.515593122,Lower middle income
+212,Zambia,ZMB,Population growth (annual %),SP.POP.GROW,2014.0,3.069640155,Lower middle income
+213,Zimbabwe,ZWE,Population growth (annual %),SP.POP.GROW,2014.0,2.307451177,Low income
