@@ -9,9 +9,9 @@ from sklearn.preprocessing import StandardScaler, MinMaxScaler
 import folium
 
 warnings.filterwarnings('ignore')
-country_geo = 'world-countries.json'
+country_geo = 'data_file/world-countries.json'
 
-df_data= pd.read_csv('Merge.csv')
+df_data= pd.read_csv('data_file/Merge.csv')
 df_mergeData = df_data[['IncomeGroup', 'Value']]
 print(df_data)
 
@@ -67,7 +67,8 @@ def scatter_plot(result, data, model_type):
 # ──────────────────────────────────────────
 #          MAKE Visualize Map
 # ──────────────────────────────────────────
-
+#일단은 parameter가 바뀔때마다 지도를 업데이트를 시켰는데
+#추후에 회의를 통해 best case를 정하고 best case만 따로 저장시키는게 좋을 것 같아요.
 def make_Map(data, method):
     plot_data = data[['CountryCode', method]]
 
@@ -76,8 +77,18 @@ def make_Map(data, method):
     map.choropleth(geo_data=country_geo, data=plot_data,
                    columns=['CountryCode', method],
                    key_on='feature.id',
-                   fill_color='YlGn', fill_opacity=0.7, line_opacity=0.2, legend_name='Cluster')
-    map.save('Map.html')
+                   fill_color='YlGn', fill_opacity=0.7, line_opacity=0.2, legend_name='Clustering Result')
+    map.save('Clustering Result Map.html')
+
+    plot_data = data[['CountryCode', 'Value']]
+
+    map = folium.Map([20, 10], zoom_start=3)
+
+    map.choropleth(geo_data=country_geo, data=plot_data,
+                   columns=['CountryCode', 'Value'],
+                   key_on='feature.id',
+                   fill_color='YlGn', fill_opacity=0.7, line_opacity=0.2, legend_name='Population growth (annual %)')
+    map.save('Map according to Value value.html')
 
 
 # ──────────────────────────────────────────
