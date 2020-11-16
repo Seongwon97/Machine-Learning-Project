@@ -64,6 +64,20 @@ def scatter_plot(result, data, model_type):
     plt.scatter(data['IncomeGroup'], data['Value'], c=result, alpha=0.5)
     plt.show()
 
+# ──────────────────────────────────────────
+#          MAKE Visualize Map
+# ──────────────────────────────────────────
+
+def make_Map(data, method):
+    plot_data = data[['CountryCode', method]]
+
+    map = folium.Map([20, 10], zoom_start=3)
+
+    map.choropleth(geo_data=country_geo, data=plot_data,
+                   columns=['CountryCode', method],
+                   key_on='feature.id',
+                   fill_color='YlGn', fill_opacity=0.7, line_opacity=0.2, legend_name='Cluster')
+    map.save('Map.html')
 
 
 # ──────────────────────────────────────────
@@ -87,6 +101,7 @@ def KMEANS_CLUSTERING(dataset1, dataset2):
             #  VISUALIZE BEST RESULT AS SCATTER PLOT
             # ──────────────────────────────────────────
             scatter_plot(pd_kmeans, dataset1, 'K-Means')
+            make_Map(dataset2, 'KMeans')
 
 
 # ──────────────────────────────────────────
@@ -109,6 +124,7 @@ def DBSCAN_CLUSTERING(dataset1, dataset2):
             #  VISUALIZE BEST RESULT AS SCATTER PLOT
             # ──────────────────────────────────────────
             scatter_plot(pd_dbscan, dataset1, 'DBSCAN')
+            make_Map(dataset2, 'DBSCAN')
 
 
 # ──────────────────────────────────────────
@@ -132,6 +148,7 @@ def EM_CLUSTERING(dataset1, dataset2):
             #  VISUALIZE BEST RESULT AS SCATTER PLOT
             # ──────────────────────────────────────────
             scatter_plot(pd_em, dataset1, 'EM')
+            make_Map(dataset2, 'EM')
 
 
 # ──────────────────────────────────────────
