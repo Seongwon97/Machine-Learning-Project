@@ -34,19 +34,20 @@ def ENCODING(df, column):
 
 
 def scatter_plot(result, data, model_type):
-    plt.title(model_type)
+    plt.title("{0},{1},{2}".format(model_type, i, j))
     plt.scatter(data['IncomeGroup'], data['Value'], c=result, alpha=1.0)
     plt.xlabel("IncomeGroup")
     plt.ylabel("population growth")
     plt.xticks([0, 1, 2, 3, 4])
-    plt.show()
-
+    # plt.show()
+    plt.savefig('Clustering Result-{0},{1},{2}.png'.format(model_type, i, j))
+    
 # ──────────────────────────────────────────
 #          MAKE Visualize Map
 # ──────────────────────────────────────────
 #일단은 parameter가 바뀔때마다 지도를 업데이트를 시켰는데
 #추후에 회의를 통해 best case를 정하고 best case만 따로 저장시키는게 좋을 것 같아요.
-def make_Map(data, method):
+def make_Map(data, method, i, j):
     plot_data = data[['CountryCode', method]]
 
     map = folium.Map([20, 10], zoom_start=3)
@@ -55,7 +56,7 @@ def make_Map(data, method):
                    columns=['CountryCode', method],
                    key_on='feature.id',
                    fill_color='YlGn', fill_opacity=0.7, line_opacity=0.2, legend_name='Clustering Result')
-    map.save('Clustering Result Map.html')
+    map.save('Clustering Result Map-{0},{1},{2}.html'.format(method, i, j))
 
     plot_data = data[['CountryCode', 'Value']]
 
@@ -66,7 +67,7 @@ def make_Map(data, method):
                    key_on='feature.id',
                    fill_color='YlGn', fill_opacity=0.7, line_opacity=0.2, legend_name='Population growth (annual %)')
     map.save('Map according to Value value.html')
-
+    
 # #K-MEANS PARAMETER
 
 
@@ -82,8 +83,8 @@ def KMEANS_CLUSTERING(dataset1, dataset2):
           # ──────────────────────────────────────────
           #  VISUALIZE BEST RESULT AS SCATTER PLOT
           # ──────────────────────────────────────────
-          scatter_plot(pd_kmeans, dataset1, 'K-Means')
-          make_Map(dataset2, 'KMeans')
+          scatter_plot(pd_kmeans, dataset1, 'K-Means', i, j)
+          make_Map(dataset2, 'KMeans', i, j)
 
 
 
@@ -103,8 +104,8 @@ def DBSCAN_CLUSTERING(dataset1, dataset2):
           # ──────────────────────────────────────────
           #  VISUALIZE BEST RESULT AS SCATTER PLOT
           # ──────────────────────────────────────────
-          scatter_plot(pd_dbscan, dataset1, 'DBSCAN')
-          make_Map(dataset2, 'DBSCAN')
+          scatter_plot(pd_dbscan, dataset1, 'DBSCAN', i, j)
+          make_Map(dataset2, 'DBSCAN', i, j)
 
 
 
@@ -121,8 +122,8 @@ def EM_CLUSTERING(dataset1, dataset2):
           # ──────────────────────────────────────────
           #  VISUALIZE BEST RESULT AS SCATTER PLOT
           # ──────────────────────────────────────────
-          scatter_plot(pd_em, dataset1, 'EM')
-          make_Map(dataset2, 'EM')
+          scatter_plot(pd_em, dataset1, 'EM', i, j)
+          make_Map(dataset2, 'EM', i, j)
 
 
 if __name__ == "__main__":
